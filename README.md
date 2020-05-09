@@ -7,3 +7,5 @@
 3. Building serverless applications with Amazon Aurora Serverless. 
 
 4. Schedule a Serverless Workflow with AWS Step Functions and Amazon CloudWatch. 
+
+5. Analyze sentiment in text with Amazon Comprehend. 
