@@ -15,3 +15,5 @@
 7. Launch a Linux Virtual Machine with Amazon Lightsail. 
 
 8. Run a Serverless "Hello, World!" with AWS Lambda
+
+9. Store and Retrieve a File with Amazon S3
