@@ -9,3 +9,5 @@
 4. Schedule a Serverless Workflow with AWS Step Functions and Amazon CloudWatch. 
 
 5. Analyze sentiment in text with Amazon Comprehend. 
+
+6. Create and Query a NoSQL Table with Amazon DynamoDB
