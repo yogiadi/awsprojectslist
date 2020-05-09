@@ -13,3 +13,5 @@
 6. Create and Query a NoSQL Table with Amazon DynamoDB
 
 7. Launch a Linux Virtual Machine with Amazon Lightsail. 
+
+8. Run a Serverless "Hello, World!" with AWS Lambda
