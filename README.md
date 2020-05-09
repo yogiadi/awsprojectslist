@@ -11,3 +11,5 @@
 5. Analyze sentiment in text with Amazon Comprehend. 
 
 6. Create and Query a NoSQL Table with Amazon DynamoDB
+
+7. Launch a Linux Virtual Machine with Amazon Lightsail. 
