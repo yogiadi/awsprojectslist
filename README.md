@@ -19,3 +19,5 @@
 9. Store and Retrieve a File with Amazon S3
 
 10. Remotely Run Commands on an EC2 Instance With AWS Systems Manager
+
+11. Launch a Windows Virtual Machine in Amazon Lightsail
