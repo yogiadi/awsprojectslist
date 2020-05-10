@@ -17,3 +17,5 @@
 8. Run a Serverless "Hello, World!" with AWS Lambda
 
 9. Store and Retrieve a File with Amazon S3
+
+10. Remotely Run Commands on an EC2 Instance With AWS Systems Manager
