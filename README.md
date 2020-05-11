@@ -25,3 +25,5 @@
 12. Launch and configure a WordPress instance with Amazon Lightsail
 
 13. Combine AWS Batch & Step Functions to create a video processing workflow. 
+
+14. Setting up a Document Database With Amazon DocumentDB (with MongoDB compatibility) and AWS Cloud9
