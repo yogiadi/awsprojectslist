@@ -31,3 +31,5 @@
 15. Filter Messages Published to Topics with Amazon Simple Notification Service (SNS) and Amazon Simple Queue Service (SQS)
 
 16. Send Messages Between Distributed Applications with Amazon Simple Queue Service (SQS)
+
+17. Create a 'first-to-respond' task request fanout pattern with Amazon SNS and AWS Step Functions
