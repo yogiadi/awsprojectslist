@@ -29,3 +29,5 @@
 14. Setting up a Document Database With Amazon DocumentDB (with MongoDB compatibility) and AWS Cloud9
 
 15. Filter Messages Published to Topics with Amazon Simple Notification Service (SNS) and Amazon Simple Queue Service (SQS)
+
+16. Send Messages Between Distributed Applications with Amazon Simple Queue Service (SQS)
